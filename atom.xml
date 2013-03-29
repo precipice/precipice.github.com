@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Marc Hedlund's Blog]]></title>
-  <link href="http://precipice.github.com/atom.xml" rel="self"/>
-  <link href="http://precipice.github.com/"/>
-  <updated>2013-03-29T08:33:43-04:00</updated>
-  <id>http://precipice.github.com/</id>
+  <link href="http://blog.precipice.org/atom.xml" rel="self"/>
+  <link href="http://blog.precipice.org/"/>
+  <updated>2013-03-29T08:35:33-04:00</updated>
+  <id>http://blog.precipice.org/</id>
   <author>
     <name><![CDATA[Marc Hedlund]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[New Blog Setup]]></title>
-    <link href="http://precipice.github.com/new-blog-setup/"/>
+    <link href="http://blog.precipice.org/new-blog-setup/"/>
     <updated>2013-03-28T21:37:00-04:00</updated>
-    <id>http://precipice.github.com/new-blog-setup</id>
-    <content type="html"><![CDATA[<p>I&#8217;ve moved my blog over to <a href="http://octopress.org/">Octopress</a> in advance of Posterous&#8217; shutdown. This is just a test post to make sure the move worked.</p>
+    <id>http://blog.precipice.org/new-blog-setup</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve moved my blog over to <a href="http://octopress.org/">Octopress</a> in advance of Posterous&#8217; shutdown. This is just a test post to make sure the move worked. I&#8217;m liking Octopress a lot.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[A vast and endless Wikiquote]]></title>
-    <link href="http://precipice.github.com/a-vast-and-endless-wikiquote/"/>
+    <link href="http://blog.precipice.org/a-vast-and-endless-wikiquote/"/>
     <updated>2012-02-19T00:00:00-05:00</updated>
-    <id>http://precipice.github.com/a-vast-and-endless-wikiquote</id>
+    <id>http://blog.precipice.org/a-vast-and-endless-wikiquote</id>
     <content type="html"><![CDATA[<div style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; background-color: #ffffff; margin: 8px;">
 <p><span style="font-size: medium;">This completely blows my mind. Back in 2006 I was writing a post on&nbsp;<a href="http://radar.oreilly.com">O&#8217;Reilly Radar</a>&nbsp;about inspiring engineering teams, and I remembered having heard a quote from&nbsp;<a href="http://en.wikipedia.org/wiki/Antoine_de_Saint-Exupery">Antoine de Saint-Exup&eacute;ry</a>&nbsp;that summed up the idea I wanted to discuss:</span></p>
 <blockquote style="margin-top: 10px; margin-left: 1px; border-left-width: 4px !important; border-left-style: solid !important; border-left-color: #dddddd !important; padding-left: 10px;">
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to be happy at work]]></title>
-    <link href="http://precipice.github.com/how-to-be-happy-at-work/"/>
+    <link href="http://blog.precipice.org/how-to-be-happy-at-work/"/>
     <updated>2012-02-17T00:00:00-05:00</updated>
-    <id>http://precipice.github.com/how-to-be-happy-at-work</id>
+    <id>http://blog.precipice.org/how-to-be-happy-at-work</id>
     <content type="html"><![CDATA[<ol>
 <li>Work with people you like and respect who think much like you do. Disagreements are okay and can be productive, but I&#8217;ve had a better time working with people where we largely agree on the basics.</li>
 <li>At the end of each day, write the people who gave you more time than usual that day and helped you as a result, and thank them for it. It&#8217;s a small thing, but it signals the right thing about other people&#8217;s time and yours. Time is valuable and you should pay for it with respect and gratitude.</li>
@@ -69,9 +69,9 @@
   
   <entry>
     <title type="html"><![CDATA[Geeky notes on evacuating Manhattan ]]></title>
-    <link href="http://precipice.github.com/geeky-notes-on-evacuating-manhattan/"/>
+    <link href="http://blog.precipice.org/geeky-notes-on-evacuating-manhattan/"/>
     <updated>2011-08-29T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/geeky-notes-on-evacuating-manhattan</id>
+    <id>http://blog.precipice.org/geeky-notes-on-evacuating-manhattan</id>
     <content type="html"><![CDATA[<p>I live in lower Manhattan, so since Thursday I&#8217;ve been consumed with <a href="http://en.wikipedia.org/wiki/Hurricane_Irene_(2011)">Hurricane Irene</a> and what the best way to deal with it might be. A lot has already been written on this, so I&#8217;m going to confine my thoughts to the geek&#8217;s-eye view of the weekend.</p>
 <ul>
 <li>The single most important tool that helped New Yorkers make plans this weekend was the <a href="http://www.nyc.gov/html/oem/downloads/pdf/hurricane_map_english.pdf">evacuation zone map</a> and <a href="http://gis.nyc.gov/oem/he/index.htm">online map search tool</a>, posted by the Mayor&#8217;s office on Thursday. This bucketed all of New York City into four regions: Zones A, B, and C, and &#8220;No Zone&#8221; areas that were unlikely to have severe effects. I&#8217;d love to see the NY Times or someone assess the map&#8217;s eventual accuracy, but in a sense it doesn&#8217;t matter, since I fully believe it was the best information available at the time. Knowing your Zone meant you had a sense of direction. Zone A was under a mandatory evacuation order. I live in Zone B, but because I live in a basement apartment near a river, I made the decision to evacuate to a No Zone area (my friend Sarah&#8217;s apartment in Brooklyn). The New York City Mayor&#8217;s office and <a href="http://www.nyc.gov/html/oem/html/home/home.shtml">OEM</a> deserve <strong><em>HUGE</em></strong> thanks for making this information available as early and as clearly as they did. Other city governments should use this as a model in similar situations. Maps save lives.</li>
@@ -89,9 +89,9 @@
   
   <entry>
     <title type="html"><![CDATA[You're the ones]]></title>
-    <link href="http://precipice.github.com/youre-the-ones/"/>
+    <link href="http://blog.precipice.org/youre-the-ones/"/>
     <updated>2011-08-24T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/youre-the-ones</id>
+    <id>http://blog.precipice.org/youre-the-ones</id>
     <content type="html"><![CDATA[<p>In 1999, I think right after the iMac came out in <a href="http://www.youtube.com/watch?v=83nS4EGKU04">a range of colors</a>, I happened to sit in on an internal meeting at Apple, one in a large theater filled with employees.  Steve Jobs came out and the whole theater burst into applause, and the clapping went on for minutes, with people standing and cheering. &nbsp;The success of the iMac was just becoming evident &ndash; the first act of Steve&#8217;s big return, leading from there to what Apple is now.</p>
 <p>Steve let the applause go on for a little bit, then, with much effort, settled down the crowd. When things got quiet, the first thing he said was: &#8220;That&#8217;s an awful lot of applause considering that you guys are the ones who do all the work.&#8221;</p>
 <p>Everyone leapt to their feet and applauded again for several minutes more, this time with Steve egging them on, applauding each other as a team.</p>
@@ -102,9 +102,9 @@
   
   <entry>
     <title type="html"><![CDATA[The work of dogs]]></title>
-    <link href="http://precipice.github.com/the-work-of-dogs/"/>
+    <link href="http://blog.precipice.org/the-work-of-dogs/"/>
     <updated>2011-08-15T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/the-work-of-dogs</id>
+    <id>http://blog.precipice.org/the-work-of-dogs</id>
     <content type="html"><![CDATA[<p>I watched the <a href="http://kottke.org/11/08/coming-to-america">clip on kottke.org today</a> from &#8221;<a href="http://en.wikipedia.org/wiki/God_Grew_Tired_of_Us">God Grew Tired of Us</a>,&#8221; a documentary about Sudanese refugees coming to the United States. There have been a few documentaries on this topic in the past few years, perhaps inspired by <a href="http://www.nytimes.com/2001/04/01/magazine/01SUDAN.html?pagewanted=all" target="_blank">this great NY Times Magazine article</a> from 2001.</p>
 <p>In that article was a moment that has stuck with me for ten years, from a visit newly-arrived refugees take to a large grocery store:</p>
 <div style="padding-left: 30px;">The next aisle over, Peter touched my shoulder. He was holding a can of Purina dog food. &#8220;Excuse me, Sara, but can you tell me what this is?&#8221; Behind him, the pet food was stacked practically floor to ceiling. &#8220;Um, that&#8217;s food for our dogs,&#8221; I answered, cringing at what that must sound like to a man who had spent the last eight years eating porridge. &#8220;Ah, I see,&#8221; Peter said, replacing the can on the shelf and appearing satisfied. He pushed his grocery cart a few more steps and then turned again to face me, looking quizzical. &#8220;Tell me,&#8221; he said, &#8220;what is the work of dogs in this country?&#8221;</div>
@@ -114,9 +114,9 @@
   
   <entry>
     <title type="html"><![CDATA[Shipping Solves Everything]]></title>
-    <link href="http://precipice.github.com/shipping-solves-everything/"/>
+    <link href="http://blog.precipice.org/shipping-solves-everything/"/>
     <updated>2010-10-05T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/shipping-solves-everything</id>
+    <id>http://blog.precipice.org/shipping-solves-everything</id>
     <content type="html"><![CDATA[<p>A number of people wrote me about my &#8221;<a href="http://blog.precipice.org/why-wesabe-lost-to-mint" style="color: #2a5db0;">Why Wesabe Lost to Mint</a>&#8221; post to ask about this line: &#8220;&#8230;nor do I agree with those who obsess over failures for years after (as I have done in the past).&#8221; A few said they were currently agonizing over a past failure and asked how I had gotten out of that state. Here&#8217;s what I wrote to one of them:</p>
 <p style="padding-left: 30px;"><span style="font-family: arial, sans-serif; border-collapse: collapse;"> </span></p>
 <div style="padding-left: 30px;">Sorry to hear about all this. I would suggest working with people you like and who encourage you, even if not on a startup project, and doing some small form of &#8220;shipping&#8221; that could lead to positive feedback.</div>
@@ -133,9 +133,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why Wesabe Lost to Mint]]></title>
-    <link href="http://precipice.github.com/why-wesabe-lost-to-mint/"/>
+    <link href="http://blog.precipice.org/why-wesabe-lost-to-mint/"/>
     <updated>2010-10-01T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/why-wesabe-lost-to-mint</id>
+    <id>http://blog.precipice.org/why-wesabe-lost-to-mint</id>
     <content type="html"><![CDATA[<p>A number of people have asked and speculated about why the company I co-founded, Wesabe, shut down earlier this summer. Some of the claims or guesses about it are just factually wrong; others seem misinformed to me; others seem to have some truth. I thought I&#8217;d add my own opinion. <p /> In November 2006, Wesabe launched as a site to help people manage their personal finances. We certainly weren&#8217;t the first to try to tackle this problem through a web app, but we were the first of a new wave of companies that came out in the months that followed, characterized but what some would call a Web 2.0 approach to the problem. Like Flickr and del.icio.us, we relied on community and features such as tags; unlike some of the previous attempts, we tried to automatically aggregate and store all of our users&#8217; financial accounts on the web (instead of relying on manual data entry, say, or desktop storage of the data); and most especially, we tried to learn from the accumulated data our users uploaded, and make recommendations for better financial decisions based on that data. If every copy of Quicken started out as a blank spreadsheet, Wesabe tried to accumulate knowledge from users and data that would fill in some of that spreadsheet for you, and point you in the direction of better choices. <p /> Even before we launched, we heard about other people working on similar ideas, and a slew of companies soon launched in our wake. None of them really seemed to get very far, though, and we were considered the leader in online personal finance until September 2007, when Mint launched at, and won, the first TechCrunch 40 conference. From that point forward we were considered in second place at best, and they overshadowed our site and everyone else&#8217;s, too. Two years later, Mint was acquired by Intuit, makers of Quicken (and after Mint&#8217;s launch, the makers of Quicken Online) for $170 million. A bit less than a year later, Wesabe shut down. <p /> That&#8217;s the history; now, some interpretation, with the completely obvious caveat that I am anything but an unbiased observer. I was the first person to start work on Wesabe and formally co-founded the&nbsp;company (as Chief Product Officer) with my high school friend, Jason Knight (who was CEO). I made nearly all of the product decisions myself, and was notorious with Jason and our board as being very hard-headed about those decisions. While I relied on many other people in making product choices, I also hired and managed all of those people, so that group was at the least a reflection of who I thought had the right values and ideas. When Jason had to leave the company due to a family illness, I took over as CEO and led the company without a formal peer for the final two years. All that adds up to me having absolutely no one to blame for Wesabe&#8217;s failure but myself, and as a result I can&#8217;t now nor could ever be dispassionate in thinking about what happened. <p /> With that in mind, here are what I believe are a number of myths about why Mint won and Wesabe lost: <p /> </p>
 <ol>
 <li><strong>Mint launched first</strong> - I hear this surprisingly often; they&nbsp;didn&#8217;t. Wesabe launched about 10 months before Mint. More the shame&nbsp;that we didn&#8217;t capitalize on that early lead. There&#8217;s a lot to be&nbsp;said for not rushing to market, and learning from the mistakes the&nbsp;first entrants make. Shipping a &#8220;minimum viable product&#8221; immediately&nbsp;and learning from the market directly makes good sense to me, but&nbsp;engaging with and supporting users is anything but free. Observation&nbsp;can be cheaper. Mint (and some others) did well by seeing where we&nbsp;screwed up, and waiting to launch until they had a better approach.&nbsp;</li>
@@ -151,9 +151,9 @@
   
   <entry>
     <title type="html"><![CDATA[I hate shared calendars (at work)]]></title>
-    <link href="http://precipice.github.com/i-hate-shared-calendars-at-work/"/>
+    <link href="http://blog.precipice.org/i-hate-shared-calendars-at-work/"/>
     <updated>2010-08-18T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/i-hate-shared-calendars-at-work</id>
+    <id>http://blog.precipice.org/i-hate-shared-calendars-at-work</id>
     <content type="html"><![CDATA[<p>I wrote this to a coworker just now, and it feels like something everyone should agree with me about. Please be persuaded:</p>
 <blockquote>I don&#8217;t use Google Calendar nor any shared calendar - but I do receive your invitations and despite missing [a recent meeting] I am usually good at responding to meeting requests. I saw your request just now and am happy to attend that meeting.<p />  <br />I don&#8217;t like the idea of shared calendars at all. If the calendar says I&#8217;m free and you put a meeting in it, does that really mean I&#8217;m free? Usually that assumption leads to conflicts and missed meetings. A blank space on my calendar might mean that I am using that time to write or to talk to people individually. Blank != available for me, and I think that is good. Also, I hate meetings, so I want it to be a little harder to get meetings set up. &#8220;Easy to create a meeting&#8221; is a bug, not a feature, in my opinion. :)<p />  In my opinion there is no substitute for calling or emailing and saying, &#8220;Hey, can you join us for this?&#8221; <p />  But - I will be sure I send you replies to your meeting requests promptly. I am not trying to prevent you from getting your job done; I am trying to make sure I spend the least amount of time in meetings possible, and that when I am scheduled for a meeting I have really&nbsp;confirmed that I am available.</blockquote>
 <p>I should say, I feel this way at work, not at home. My wife and I use a shared <a href="http://www.backpackit.com/">Backpack</a> calendar and it&#8217;s been a huge help. We use it for social planning, appointments, reminders, and important dates. I bet that shared calendars could work well with any group that is small and shares a very high level of trust and respect. I just usually don&#8217;t find those are the prerequisites when companies start using shared calendars. Maybe the lack of those prerequisites is the the real problem at work &#8211; in this and other areas. <p /> -M</p>
@@ -162,9 +162,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting rid of all the Facebook stinkiness on Posterous]]></title>
-    <link href="http://precipice.github.com/getting-rid-of-all-the-facebook-stinkiness-on/"/>
+    <link href="http://blog.precipice.org/getting-rid-of-all-the-facebook-stinkiness-on/"/>
     <updated>2010-07-03T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/getting-rid-of-all-the-facebook-stinkiness-on</id>
+    <id>http://blog.precipice.org/getting-rid-of-all-the-facebook-stinkiness-on</id>
     <content type="html"><![CDATA[<p>Posterous blogs come with two big smears of Facebook poop on them: the Facebook &#8220;Like&#8221; button, and a checkbox above the comments box that reads, &#8220;Post comment to Facebook.&#8221;  It wasn&#8217;t immediately obvious how to get rid of those, and, tinfoil-hat-clubbing though this may be, I wasn&#8217;t going to use Posterous if those were required.</p>
 <p>Fortunately, they&#8217;re not.  Here&#8217;s how to get rid of them:</p>
 <ol>
@@ -182,9 +182,9 @@
   
   <entry>
     <title type="html"><![CDATA[Setting up a personal blog]]></title>
-    <link href="http://precipice.github.com/setting-up-a-personal-blog/"/>
+    <link href="http://blog.precipice.org/setting-up-a-personal-blog/"/>
     <updated>2010-07-02T00:00:00-04:00</updated>
-    <id>http://precipice.github.com/setting-up-a-personal-blog</id>
+    <id>http://blog.precipice.org/setting-up-a-personal-blog</id>
     <content type="html"><![CDATA[<p>Not sure I&#8217;m going to use this, but I&#8217;m thinking about a home for non-<a href="http://radar.oreilly.com/marc">Radar</a> &#8220;think&#8221; pieces &#8211; more personal stuff. Maybe this will turn out to be it. <p /> -M</p>
 ]]></content>
   </entry>

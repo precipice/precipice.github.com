@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://precipice.github.com/sitemap.xml 
+Sitemap: http://blog.precipice.org/sitemap.xml 
