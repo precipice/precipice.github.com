@@ -4,7 +4,7 @@
   <title><![CDATA[Marc Hedlund's Blog]]></title>
   <link href="http://precipice.github.com/atom.xml" rel="self"/>
   <link href="http://precipice.github.com/"/>
-  <updated>2013-03-28T20:49:16-04:00</updated>
+  <updated>2013-03-28T21:39:24-04:00</updated>
   <id>http://precipice.github.com/</id>
   <author>
     <name><![CDATA[Marc Hedlund]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Blog Setup]]></title>
+    <link href="http://precipice.github.com/new-blog-setup/"/>
+    <updated>2013-03-28T21:37:00-04:00</updated>
+    <id>http://precipice.github.com/new-blog-setup</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve moved my blog over to <a href="http://octopress.org/">Octopress</a> in advance of Posterous&#8217; shutdown. This is just a test post to make sure the move worked.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A vast and endless Wikiquote]]></title>
